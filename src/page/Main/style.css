@@ -26,9 +26,9 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
     background: yellow;
-    padding: 1rem;
+    padding: 0 1rem;
 }
 
 .outlet_content{
