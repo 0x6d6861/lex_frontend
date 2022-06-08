@@ -34,3 +34,16 @@
 .outlet_content{
     padding: 1rem;
 }
+
+.auth_slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
